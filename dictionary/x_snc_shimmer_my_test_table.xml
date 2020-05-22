@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="my test table" max_length="40" name="x_snc_shimmer_my_test_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="my test field" max_length="40" name="my_test_field" type="string"/>
+    </element>
+</database>
